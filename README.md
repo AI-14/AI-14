@@ -1,3 +1,4 @@
+![Banner](banner.png)
 <h1 align="center"> Hi 👋, I am Amaan Izhar </h1>
 <p align="center"><em>"The more situational aware you are, the calmer you become. The calmer you are, the clearer your vision. The clearer your vision, the more effective your response. The greater your effectiveness, the more unconquerable you become."</em></p>
 <p align="center">
