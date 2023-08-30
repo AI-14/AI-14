@@ -12,7 +12,7 @@
   - [Curriculum Vitae.]()
 - 📚 I’m currently preparing my thesis and a journal paper under the field of _Artificial Intelligence and Deep Learning in Medical Image Analysis & Radiology Report Generation_.
 - 👯 I’m looking to collaborate on Machine Learning & Deep Learning projects/papers related to my research interests.
-- 💬 I am passionate about research and new-ideas that glue together interdisciplinary fields via Machine Learning & Deep Learning technologies. Furthermore, I am working my way to earn a PhD eventually and be a significant contributor towards academic research under AI-ML. 
+- 💬 I am passionate about research and new-ideas that glue together interdisciplinary fields via Machine Learning & Deep Learning technologies. Furthermore, I am working my way to earn a PhD eventually and contribute significantly towards academic research under AI-ML. 
 - ⚡ Fun Facts:
   - I like to read technical books.
   - I love to listen raps & violin OSTs.
