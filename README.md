@@ -20,7 +20,7 @@
   - I like to have conversations about code/computer-science/philosophical topics in general.
 
 ## /research-interests
-- Machine Learning & Deep Learning in interdisciplinary fields.
+- Interdisciplinary Machine Learning & Deep Learning.
 - Multimodal Representation/Architectures.
 - Natural Language Processing.
   
