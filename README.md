@@ -19,9 +19,9 @@
   - I like to have conversations about code/computer-science/philosophical topics in general.
 
 ## /research-interests
-- Machine Learning & Deep Learning in interdisciplinary fields
-- Multimodal Representation/Architectures
-- Natural Language Processing
+- Machine Learning & Deep Learning in interdisciplinary fields.
+- Multimodal Representation/Architectures.
+- Natural Language Processing.
   
 ## /skills
 - **_Programming Languages_**:
@@ -44,7 +44,7 @@
 > _coming soon_...
 
 ## /contact-me
-**_Let's connect, collaborate, and have a conversation about potential papers/projects related to AI-ML_**
+**_Let's connect, collaborate, and have a conversation about potential papers/projects related to AI-ML._**
 
 <a href="mailto:amaan142pw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 <a href="https://www.linkedin.com/in/amaan-izhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
