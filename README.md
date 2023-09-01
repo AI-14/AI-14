@@ -48,5 +48,5 @@
 **_Let's connect, collaborate, and have a conversation about potential papers/projects related to AI-ML._**
 
 <a href="mailto:amaan142pw@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-<a href="https://www.linkedin.com/in/amaan-izhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/amaanizhar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 <a href="https://www.instagram.com/i.amaan14/" target="_blank"><img src="https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=red" alt="instagram"></a>
