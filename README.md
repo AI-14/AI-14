@@ -6,8 +6,8 @@
 
 ## /about-me
 - 🎓 I am a Master's of Computer Science student @ [University of Malaya](https://um.edu.my/) / [FSKTM](https://fsktm.um.edu.my/).
-  - My research is supervised/co-supervised by: [Prof. Norisma Idris](https://umexpert.um.edu.my/norisma) & [Prof. Nurul Japar](https://umexpert.um.edu.my/nuruljapar).
-  - I am also collborating with the [Artificial Intelligence Research Group](https://fsktm.um.edu.my/research-group-ai).
+  - My research is supervised/co-supervised by: [Dr. Norisma Idris](https://umexpert.um.edu.my/norisma) & [Dr. Nurul Japar](https://umexpert.um.edu.my/nuruljapar).
+  //- I am also collborating with the [Artificial Intelligence Research Group](https://fsktm.um.edu.my/research-group-ai).
   - [Curriculum Vitae.]()
 - 📚 I’m currently preparing my thesis and a journal paper under the field of _Artificial Intelligence and Deep Learning in Medical Image Analysis & Radiology Report Generation_.
 - 👯 I’m looking to collaborate on Machine Learning & Deep Learning projects/papers related to my research interests.
