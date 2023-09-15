@@ -5,7 +5,7 @@
 </p>
 
 ## /about-me
-- 🎓 I am a Master's of Computer Science student @ [University of Malaya](https://um.edu.my/) / [FSKTM](https://fsktm.um.edu.my/).
+- 🎓 I am a Master's of Computer Science student @ [University of Malaya](https://um.edu.my/) / [FCSIT](https://fsktm.um.edu.my/).
   - My research is supervised/co-supervised by: [Dr. Norisma Idris](https://umexpert.um.edu.my/norisma) & [Dr. Nurul Japar](https://umexpert.um.edu.my/nuruljapar).
   - [Curriculum Vitae.]()
 <!---
