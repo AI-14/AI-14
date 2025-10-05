@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <strong>Amaan</strong></h1>
 
 <p align="center">
-  <strong>AI Researcher&nbsp;•&nbsp;LLM &amp; Multimodal Systems&nbsp;•&nbsp;Multi-Agent Architect&nbsp;•&nbsp;Infra&nbsp;•&nbsp;Fintech</strong>
+  <strong>LLM Research Scientist @ Gen Digital (MoneyLion)&nbsp;|&nbsp;Multi-Agent AI Architect&nbsp;|&nbsp;AIOps &amp; Infra&nbsp;|&nbsp;Scaling AI from Research to Production&nbsp;|&nbsp;Fintech</strong>
 </p>
 
 ---
