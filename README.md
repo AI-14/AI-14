@@ -36,5 +36,5 @@ I build **AI systems that actually work in the real world** — scalable, intell
 ---
 
 <p align="center">
-  🌐 <a href="https://linkedin.com/in/amaanizhar">LinkedIn</a> &nbsp;•&nbsp; <a href="https://scholar.google.com/citations?user=FeMCtswAAAAJ&hl=en">Scholar</a>
+  <em>“Great systems aren’t just built — they’re designed, debugged, and evolved.”</em>
 </p>
