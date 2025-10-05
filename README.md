@@ -8,7 +8,7 @@
 
 I build **AI systems that actually work in the real world** — scalable, intelligent, and production-ready.
 
-🎯 **Currently**: Developing **large-scale LLM pipelines** at <a href="https://www.gendigital.com/us/en/">Gen Digital</a> (<a href="https://www.moneylion.com/">MoneyLion Divison</a>) to power real-time financial decision systems.  
+🎯 **Currently**: Developing **large-scale LLM pipelines** at <a href="https://www.gendigital.com/us/en/">Gen Digital</a> (<a href="https://www.moneylion.com/">MoneyLion</a>) to power real-time financial decision systems.  
 🧠 **Expertise**: Large language models (LLMs), Generative AI, multimodal intelligence, and multi-agent architectures.  
 🌍 **Applications**: Applied these methods in **healthcare** (e.g., radiology report generation), **video-understanding** (e.g., sign language recognition) and now focused on **fintech**, building high-performance agentic systems for enterprise deployment.
 
