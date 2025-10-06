@@ -82,4 +82,4 @@ STACK = {
 
 ---
 
-> "Great systems aren't just built — they're designed, debugged, and evolved."
+<p align="center"><i>"Great systems aren't just built — they're designed, debugged, and evolved."</i></p>
