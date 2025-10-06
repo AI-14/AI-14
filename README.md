@@ -1,40 +1,85 @@
-<h1 align="center">👋 Hi, I'm <strong>Amaan</strong></h1>
+<h1 align="center">&lt;Hi, I'm <strong>Amaan</strong>/&gt;</h1>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital (MoneyLion)&nbsp;|&nbsp;Multi-Agent AI Architect&nbsp;|&nbsp;AIOps &amp; Infra&nbsp;|&nbsp;Scaling AI from Research to Production&nbsp;|&nbsp;Fintech</strong>
+  <strong>LLM Research Scientist @ Gen Digital (MoneyLion)</strong><br>
+  Multi-Agent AI Architect | AIOps & Infra | Scaling Research → Production | Fintech
+</p>
+
+<p align="center">
+  <em>Researching and building AI systems that actually work in the real world — scalable, intelligent, and production-ready.</em>
 </p>
 
 ---
 
-I build **AI systems that actually work in the real world** — scalable, intelligent, and production-ready.
+## `/current-work`
 
-🎯 **Currently**: Developing **large-scale LLM pipelines** at <a href="https://www.gendigital.com/us/en/">Gen Digital</a> (<a href="https://www.moneylion.com/">MoneyLion</a>) to power real-time financial decision systems.  
-🧠 **Expertise**: Large language models (LLMs), Generative AI, multimodal intelligence, and multi-agent architectures.  
-🌍 **Applications**: Applied these methods in **healthcare** (e.g., radiology report generation), **video-understanding** (e.g., sign language recognition) and now focused on **fintech**, building high-performance agentic systems for enterprise deployment.
-
----
-
-### 🧠 What I Work On
-- 🧭 Designing **multi-agent systems** that coordinate LLMs.
-- 🧠 Developing **multimodal architectures** that fuse vision, language, and structured data.
-- 🏗️ **Scaling research to production** with PyTorch (DDP/FSDP), LangGraph, Kubernetes, AWS, etc.  
-- ⚡ Optimizing **inference pipelines** for low-latency, high-throughput real-world applications.  
-- 🧩 Building **agentic workflows and infra** that make AI systems reliable and efficient.
+```python
+def current_work():
+    return {
+        "role": "LLM Research Scientist @ Gen Digital (MoneyLion)",
+        "building": "Large-scale LLM pipelines for real-time financial decisions",
+        "focus": ["Multi-agent systems", "Production & enterprise AI", "Multimodal intelligence", "Distributed systems"]
+    }
+```
 
 ---
 
-### 🛠️ Technical Stack
-| Category                          | Tools & Frameworks                                                                                                         |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**         | Python • Java • TypeScript • JavaScript • HTML • CSS                                                                       |
-| **Databases & Storage**           | MySQL • PostgreSQL • MongoDB • QDrant                                                                                      |
-| **Data Processing & Visualization** | NumPy • Pandas • PySpark • Matplotlib • Seaborn • Plotly                                                                 |
-| **AI/ML & GenAI**                 | Scikit-Learn • PyTorch (DDP, FSDP, DeepSpeed, Ray) • LangChain • LangGraph • FastMCP                                       |
-| **AIOps & Deployment**            | MLflow • Airflow • Docker • Kubernetes • Terraform • AWS                                                                   |
-| **Other**                         | Git • GitHub • GitHub Actions • Kafka • LaTeX • React • FastAPI                                                            |
+## `/expertise`
+
+```python
+def expertise():
+    return [
+        "Large Language Models (LLMs) & Generative AI",
+        "Multimodal Intelligence (vision + language + tabular data)",
+        "Multi-Agent System Architecture",
+        "Scaling Research → Production"
+    ]
+```
 
 ---
 
-<p align="center">
-  <em>“Great systems aren’t just built — they’re designed, debugged, and evolved.”</em>
-</p>
+## `/domains`
+
+```python
+def domain_experience():
+    return {
+        "fintech": "Real-time financial intelligence systems",
+        "healthcare": "Medical image analysis & radiology report generation",
+        "video_ai": "Video understanding & sign language recognition"
+    }
+```
+
+---
+
+## `/what-i-build`
+
+```python
+def what_i_build():
+    return [
+        "Multi-agent systems that coordinate LLMs",
+        "Multimodal architectures (vision + language + structured data)",
+        "Production ML infrastructure (PyTorch DDP/FSDP, K8s, AWS, etc)",
+        "Low-latency, high-throughput inference pipelines",
+        "Agentic workflows with bulletproof reliability"
+    ]
+```
+
+---
+
+## `/tech-stack`
+
+```python
+STACK = {
+    "languages": ["Python", "Java", "TypeScript", "JavaScript", "HTML/CSS"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "QDrant"],
+    "data": ["NumPy", "Pandas", "PySpark", "Matplotlib", "Seaborn", "Plotly"],
+    "ai_ml": ["PyTorch (DDP/FSDP/DeepSpeed/Ray)", "Scikit-Learn", 
+              "LangChain", "LangGraph", "FastMCP"],
+    "mlops": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
+    "tools": ["Git", "GitHub Actions", "Kafka", "FastAPI", "React"]
+}
+```
+
+---
+
+> "Great systems aren't just built — they're designed, debugged, and evolved."
