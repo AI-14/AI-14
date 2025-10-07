@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>LLM Research Scientist @ Gen (MoneyLion)</strong><br>
-  Multi-Agent AI Architect | AIOps & Infra | Scaling Research → Production | Fintech
+  Multi-Agent AI Architect | LLMOps & Infra | Scaling Research → Production | Fintech
 </p>
 
 <p align="center">
