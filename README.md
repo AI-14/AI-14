@@ -16,7 +16,7 @@
 ```python
 def current_work():
     return {
-        "role": "LLM Research Scientist @ Gen Digital (MoneyLion)",
+        "role": "LLM Research Scientist @ Gen (MoneyLion)",
         "building": "Large-scale LLM pipelines for real-time financial decisions",
         "focus": ["Multi-agent systems", "Production & enterprise AI", "Multimodal intelligence", "Distributed systems"]
     }
