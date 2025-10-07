@@ -58,7 +58,7 @@ def what_i_build():
     return [
         "Multi-agent systems that coordinate LLMs",
         "Multimodal architectures (vision + language + structured data)",
-        "Production ML infrastructure (PyTorch DDP/FSDP, K8s, AWS, etc)",
+        "Production LLM infrastructure (PyTorch DDP/FSDP, K8s, AWS, etc)",
         "Low-latency, high-throughput inference pipelines",
         "Agentic workflows with bulletproof reliability"
     ]
