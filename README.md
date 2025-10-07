@@ -1,7 +1,7 @@
 <h1 align="center">&lt;Hi, I'm <strong>Amaan</strong>/&gt;</h1>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital (MoneyLion)</strong><br>
+  <strong>LLM Research Scientist @ Gen (MoneyLion)</strong><br>
   Multi-Agent AI Architect | AIOps & Infra | Scaling Research → Production | Fintech
 </p>
 
