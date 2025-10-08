@@ -51,7 +51,7 @@
 
 ---
 
-## `/tech-stack`
+## `/tech-skills`
 
 ```json
 {
