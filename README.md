@@ -1,4 +1,6 @@
-<h1 align="center">&lt;Hi, I'm <strong>Amaan</strong>/&gt;</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=2000&pause=800&center=true&vCenter=true&width=520&lines=%3C%20Hi%2C+I%27m+Amaan%2F%20%3E" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>LLM Research Scientist @ Gen (MoneyLion)</strong><br>
