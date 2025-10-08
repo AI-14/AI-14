@@ -58,8 +58,8 @@
   "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS"],
   "databases": ["MySQL", "PostgreSQL", "MongoDB", "QDrant"],
   "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
-  "mlops": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
-  "tools": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
+  "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
+  "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
 }
 ```
 
