@@ -35,7 +35,7 @@
 {
   "ai_research": [
     "LLMs & Generative AI",
-    "Multi-Agent Architecture",
+    "Multi-Agent System Architecture",
     "Multimodal Intelligence (Vision + Language + Tabular)",
     "RAG & Context Engineering",
     "Fine-tuning & Reinforcement Learning"
