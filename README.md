@@ -13,70 +13,78 @@
 
 ## `/current-work`
 
-```python
-def current_work():
-    return {
-        "role": "LLM Research Scientist @ Gen (MoneyLion)",
-        "building": "Large-scale LLM pipelines for real-time financial decisions",
-        "focus": ["Multi-agent systems", "Production & enterprise AI", "Multimodal intelligence", "Distributed systems"]
-    }
+```json
+{
+  "role": "LLM Research Scientist @ Gen (MoneyLion)",
+  "mission": "Scaling AI research to production in fintech",
+  "building": [
+    "Multi-agent AI systems for real-time financial intelligence",
+    "Production LLMOps infrastructure serving millions of decisions",
+    "Multimodal AI pipelines (vision + language + structured data)",
+    "Enterprise-grade RAG systems at scale"
+  ],
+  "impact": "Transforming how financial services leverage AI"
+}
 ```
 
 ---
 
 ## `/expertise`
 
-```python
-def expertise():
-    return [
-        "Large Language Models (LLMs) & Generative AI",
-        "Multimodal Intelligence (vision + language + tabular data)",
-        "Multi-Agent System Architecture",
-        "Scaling Research → Production"
-    ]
-```
-
----
-
-## `/domains`
-
-```python
-def domain_experience():
-    return {
-        "fintech": "Real-time financial intelligence systems",
-        "healthcare": "Medical image analysis & radiology report generation",
-        "video_ai": "Video understanding & sign language recognition"
-    }
-```
-
----
-
-## `/what-i-build`
-
-```python
-def what_i_build():
-    return [
-        "Multi-agent systems that coordinate LLMs",
-        "Multimodal architectures (vision + language + structured data)",
-        "Production LLM infrastructure (PyTorch DDP/FSDP, K8s, AWS, etc)",
-        "Low-latency, high-throughput inference pipelines",
-        "Agentic workflows with bulletproof reliability"
-    ]
+```json
+{
+  "ai_research": [
+    "Large Language Models (LLMs) & Generative AI",
+    "Multi-Agent System Architecture",
+    "Multimodal Intelligence (Vision + Language + Tabular)",
+    "RAG (Retrieval-Augmented Generation)",
+    "Context Engineering, Fine-tuning & RL (Reinforcement Learning)"
+  ],
+  "production_engineering": [
+    "LLMOps & Model Serving",
+    "Distributed Systems & Infrastructure",
+    "Research → Production Pipelines",
+    "Real-time AI Systems at Scale",
+    "Model Monitoring & Observability"
+  ],
+  "domains": [
+    "Fintech",
+    "Healthcare",
+    "Multimodal AI"
+  ]
+}
 ```
 
 ---
 
 ## `/tech-stack`
 
-```python
-STACK = {
-    "languages": ["Python", "Java", "TypeScript", "JavaScript", "HTML/CSS"],
-    "databases": ["MySQL", "PostgreSQL", "MongoDB", "QDrant"],
-    "data": ["NumPy", "Pandas", "PySpark", "Matplotlib", "Seaborn", "Plotly"],
-    "ai_ml": ["PyTorch (DDP/FSDP/DeepSpeed/Ray)", "Scikit-Learn", 
-              "LangChain", "LangGraph", "FastMCP"],
-    "mlops": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
-    "tools": ["Git", "GitHub Actions", "Kafka", "FastAPI", "React"]
+```json
+{
+  "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS"],
+  "databases": ["MySQL", "PostgreSQL", "MongoDB", "QDrant"],
+  "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
+  "mlops": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
+  "tools": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
+}
+```
+
+---
+
+## `/connect`
+```json
+{
+  "open_to_discussing": [
+    "LLM research → production challenges",
+    "Multi-agent system architecture",
+    "Scaling AI infrastructure",
+    "LLMOps best practices",
+    "Research collaborations & opportunities"
+  ],
+  "contact": {
+    "linkedin": "https://www.linkedin.com/in/amaanizhar/",
+    "email": "amaan142pw@gmail.com"
+  }
 }
 ```
 
