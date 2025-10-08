@@ -41,7 +41,7 @@
     "Context Engineering, Fine-tuning & Reinforcement Learning"
   ],
   "llmops_infrastructure": [
-    "Model Serving & Observability",
+    "Model Serving, Monitoring & Observability",
     "Distributed Systems",
     "Real-time AI Pipelines"
   ]
