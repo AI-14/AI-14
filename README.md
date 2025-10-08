@@ -46,11 +46,6 @@
     "Research → Production Pipelines",
     "Real-time AI Systems at Scale",
     "Model Monitoring & Observability"
-  ],
-  "domains": [
-    "Fintech",
-    "Healthcare",
-    "Multimodal AI"
   ]
 }
 ```
