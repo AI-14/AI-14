@@ -68,8 +68,8 @@
 ```json
 {
   "open_to": [
-    "LLM deployment strategies & research-to-production challenges",
-    "Multi-agent system design",
+    "LLM deployment strategies and research-to-production challenges",
+    "Multi-agent system design and self-evolving AI",
     "LLMOps best practices and AI system design",
     "Research collaborations in fintech AI"
   ],
