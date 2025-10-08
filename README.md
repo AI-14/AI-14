@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen (MoneyLion)</strong><br>
-  Multi-Agent AI Architect | LLMOps | Scaling Research → Production | Fintech
+  <strong>LLM Research Scientist @ Gen Digital Inc.</strong><br>
+  MoneyLion | Multi-Agent AI Architect | LLMOps | Scaling Research → Production | Fintech
 </p>
 
 <p align="center">
@@ -17,15 +17,13 @@
 
 ```json
 {
-  "role": "LLM Research Scientist @ Gen (MoneyLion)",
-  "mission": "Scaling AI research to production in fintech",
+  "role": "LLM Research Scientist @ Gen Digital Inc.",
   "building": [
-    "Multi-agent AI systems for real-time financial intelligence",
-    "Production LLMOps infrastructure serving millions of decisions",
+    "Multi-agent systems for real-time financial intelligence",
+    "LLMOps infrastructure serving millions of daily decisions",
     "Multimodal AI pipelines (vision + language + structured data)",
-    "Enterprise-grade RAG systems at scale"
-  ],
-  "impact": "Transforming how financial services leverage AI"
+    "Enterprise RAG systems for knowledge retrieval"
+  ]
 }
 ```
 
@@ -36,18 +34,16 @@
 ```json
 {
   "ai_research": [
-    "Large Language Models (LLMs) & Generative AI",
-    "Multi-Agent System Architecture",
+    "LLMs & Generative AI",
+    "Multi-Agent Architecture",
     "Multimodal Intelligence (Vision + Language + Tabular)",
-    "RAG (Retrieval-Augmented Generation)",
-    "Context Engineering, Fine-tuning & RL (Reinforcement Learning)"
+    "RAG & Context Engineering",
+    "Fine-tuning & Reinforcement Learning"
   ],
-  "production_engineering": [
-    "LLMOps & Model Serving",
-    "Distributed Systems & Infrastructure",
-    "Research → Production Pipelines",
-    "Real-time AI Systems at Scale",
-    "Model Monitoring & Observability"
+  "llmops_infrastructure": [
+    "Model Serving & Observability",
+    "Distributed Systems",
+    "Real-time AI Pipelines"
   ]
 }
 ```
@@ -71,12 +67,11 @@
 ## `/connect`
 ```json
 {
-  "open_to_discussing": [
-    "LLM research → production challenges",
-    "Multi-agent system architecture",
-    "Scaling AI infrastructure",
-    "LLMOps best practices",
-    "Research collaborations & opportunities"
+  "open_to": [
+    "LLM deployment strategies & research-to-production challenges",
+    "Multi-agent system design",
+    "LLMOps best practices and AI system design",
+    "Research collaborations in fintech AI"
   ],
   "contact": {
     "linkedin": "https://www.linkedin.com/in/amaanizhar/",
