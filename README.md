@@ -22,7 +22,8 @@
     "Multi-agent systems for real-time financial intelligence",
     "LLMOps infrastructure serving millions of daily decisions",
     "Multimodal AI pipelines (vision + language + structured data)",
-    "Enterprise RAG systems for knowledge retrieval"
+    "Enterprise RAG systems for knowledge retrieval",
+    "LLMs to optimize performance for fintech-specific tasks"
   ]
 }
 ```
