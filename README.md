@@ -37,8 +37,8 @@
     "LLMs & Generative AI",
     "Multi-Agent System Architecture",
     "Multimodal Intelligence (Vision + Language + Tabular)",
-    "RAG & Context Engineering",
-    "Fine-tuning & Reinforcement Learning"
+    "Retrieval-Augmented Generation (RAG)",
+    "Context Engineering, Fine-tuning & Reinforcement Learning"
   ],
   "llmops_infrastructure": [
     "Model Serving & Observability",
