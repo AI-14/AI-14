@@ -35,7 +35,7 @@
 ```json
 {
   "ai_research": [
-    "LLMs & Generative AI",
+    "Large Language Models (LLMs) & Generative AI (GenAI)",
     "Agentic AI & Multi-Agent System Architecture",
     "Multimodal Intelligence (Vision + Language + Tabular)",
     "Retrieval-Augmented Generation (RAG)",
