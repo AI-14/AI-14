@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital Inc.</strong><br>
+  <strong>LLM Research Scientist @ Gen</strong><br>
   MoneyLion | Multi-Agent AI Architect | LLMOps | Scaling Research → Production | Fintech
 </p>
 
@@ -17,7 +17,7 @@
 
 ```json
 {
-  "role": "LLM Research Scientist @ Gen Digital Inc.",
+  "role": "LLM Research Scientist @ Gen",
   "building": [
     "Multi-agent systems for real-time financial intelligence",
     "LLMOps infrastructure serving millions of daily decisions",
@@ -36,7 +36,7 @@
 {
   "ai_research": [
     "LLMs & Generative AI",
-    "Multi-Agent System Architecture",
+    "Agentic AI & Multi-Agent System Architecture",
     "Multimodal Intelligence (Vision + Language + Tabular)",
     "Retrieval-Augmented Generation (RAG)",
     "Context Engineering, Fine-tuning & Reinforcement Learning"
