@@ -18,6 +18,7 @@
 ```json
 {
   "role": "LLM Research Scientist @ Gen",
+  "team/division": "MoneyLion",
   "building": [
     "Multi-agent systems for real-time financial intelligence",
     "LLMOps infrastructure serving millions of daily decisions",
