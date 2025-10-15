@@ -57,7 +57,7 @@
 ```json
 {
   "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS"],
-  "databases": ["MySQL", "PostgreSQL", "MongoDB", "QDrant"],
+  "databases": ["MySQL", "PostgreSQL", "MongoDB", "Pinecone"],
   "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
   "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
   "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
