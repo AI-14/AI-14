@@ -14,11 +14,11 @@
   "team": "MoneyLion",
   "focus": [
     "Agentic & multi-agent systems for real-time financial intelligence",
-    "LLMOps infrastructure serving millions of daily decisions",
+    "LLM optimization for fintech-specific tasks",
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
-    "LLM optimization for fintech-specific tasks",
     "Context engineering, fine-tuning, and reinforcement learning"
+    "LLMOps infrastructure serving millions of daily decisions"
   ],
   "skills": {
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
