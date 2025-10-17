@@ -30,8 +30,8 @@
   "open_to_discussions": [
     "LLMOps strategies and research-to-production challenges",
     "Multi-agent system design",
-    "Self-evolving AI",
-    "Research collaborations in fintech AI"
+    "Self-evolving AI systems and autonomous improvement",
+    "Research and application of agentic AI in fintech and beyond"
   ],
   "contact": {
     "linkedin": "https://www.linkedin.com/in/amaanizhar/",
