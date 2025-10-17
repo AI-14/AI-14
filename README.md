@@ -27,10 +27,10 @@
     "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
-  "open_to": [
-    "LLM deployment strategies and research-to-production challenges",
-    "Multi-agent system design and self-evolving AI",
-    "LLMOps best practices and AI system design",
+  "open_to_discussions": [
+    "LLMOps strategies and research-to-production challenges",
+    "Multi-agent system design",
+    "Self-evolving AI",
     "Research collaborations in fintech AI"
   ],
   "contact": {
