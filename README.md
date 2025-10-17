@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital Inc.</strong><br>
-  Agentic & Multi-Agent AI Systems | LLMOps | Fintech
+  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Agentic & Multi-Agent AI Systems | LLMOps | Fintech
 </p>
 
 ---
