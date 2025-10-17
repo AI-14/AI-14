@@ -13,7 +13,7 @@
   "role": "LLM Research Scientist @ Gen Digital Inc.",
   "team": "MoneyLion",
   "focus": [
-    "Agentic & Multi-agent systems for real-time financial intelligence",
+    "Agentic & multi-agent systems for real-time financial intelligence",
     "LLMOps infrastructure serving millions of daily decisions",
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
