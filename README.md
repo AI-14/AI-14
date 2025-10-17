@@ -58,7 +58,7 @@
   
 ```json
 {
-  "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS"],
+  "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
   "databases": ["MySQL", "PostgreSQL", "MongoDB", "Pinecone"],
   "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
   "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
