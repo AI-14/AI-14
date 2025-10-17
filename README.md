@@ -8,73 +8,25 @@
 
 ---
 
-#### `/current-work`
-<sub>
-  
 ```json
 {
   "role": "LLM Research Scientist @ Gen Digital Inc.",
-  "team/division": "MoneyLion",
-  "building": [
-    "Multi-agent systems for real-time financial intelligence",
+  "team": "MoneyLion",
+  "focus": [
+    "Agentic & Multi-agent systems for real-time financial intelligence",
     "LLMOps infrastructure serving millions of daily decisions",
-    "Multimodal AI pipelines (vision + language + structured data)",
+    "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
-    "LLMs to optimize performance for fintech-specific tasks"
-  ]
-}
-```
-
-</sub>
-
----
-
-#### `/expertise`
-<sub>
-  
-```json
-{
-  "ai_research": [
-    "Large Language Models (LLMs) & Generative AI (GenAI)",
-    "Agentic AI & Multi-Agent System Architecture",
-    "Multimodal Intelligence (Vision + Language + Tabular)",
-    "Retrieval-Augmented Generation (RAG)",
-    "Context Engineering, Fine-tuning & Reinforcement Learning"
+    "LLMs to optimize performance for fintech-specific tasks",
+    "Context engineering, fine-tuning, and reinforcement learning"
   ],
-  "llmops_infrastructure": [
-    "Model Serving, Monitoring & Observability",
-    "Distributed Systems",
-    "Real-time AI Pipelines"
-  ]
-}
-```
-
-</sub>
-
----
-
-#### `/tech-skills`
-<sub>
-  
-```json
-{
-  "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
-  "databases": ["MySQL", "PostgreSQL", "MongoDB", "Pinecone"],
-  "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
-  "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
-  "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
-}
-```
-
-</sub>
-
----
-
-#### `/connect`
-<sub>
-  
-```json
-{
+  "skills": {
+    "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
+    "databases": ["MySQL", "PostgreSQL", "MongoDB", "Pinecone"],
+    "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
+    "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
+    "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
+  },
   "open_to": [
     "LLM deployment strategies and research-to-production challenges",
     "Multi-agent system design and self-evolving AI",
@@ -87,8 +39,6 @@
   }
 }
 ```
-
-</sub>
 
 ---
 
