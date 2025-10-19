@@ -17,7 +17,7 @@
     "LLM optimization for fintech-specific tasks",
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
-    "Context engineering, fine-tuning, and reinforcement learning"
+    "Context engineering, fine-tuning, and reinforcement learning",
     "LLMOps infrastructure serving millions of daily decisions"
   ],
   "skills": {
