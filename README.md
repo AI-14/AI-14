@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Agentic & Multi-Agent AI Systems | LLMOps | Fintech
+  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Agentic AI Systems | LLMOps | Fintech
 </p>
 
 ---
@@ -13,7 +13,7 @@
   "role": "LLM Research Scientist @ Gen Digital Inc.",
   "team": "MoneyLion",
   "focus": [
-    "Agentic & multi-agent systems for real-time financial intelligence",
+    "Agentic AI systems (single/multi-agents) for real-time financial intelligence",
     "LLM optimization for fintech-specific tasks",
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
@@ -29,7 +29,7 @@
   },
   "open_to_discussions": [
     "Research-to-production challenges in LLMOps",
-    "Multi-agent AI system design patterns",
+    "Agentic AI system design patterns",
     "Self-evolving AI systems and autonomous improvement",
     "Research collaborations and application of agentic AI in fintech and beyond"
   ],
