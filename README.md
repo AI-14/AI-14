@@ -18,7 +18,7 @@
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
     "Context engineering, fine-tuning, and reinforcement learning",
-    "LLMOps infrastructure serving millions of daily decisions"
+    "LLMOps infrastructure and AI design patterns"
   ],
   "skills": {
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
@@ -28,10 +28,10 @@
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
   "open_to_discussions": [
-    "LLMOps strategies and research-to-production challenges",
-    "Multi-agent system design",
+    "Research-to-production challenges in LLMOps",
+    "Multi-agent AI system design patterns",
     "Self-evolving AI systems and autonomous improvement",
-    "Research and application of agentic AI in fintech and beyond"
+    "Research collaborations and application of agentic AI in fintech and beyond"
   ],
   "contact": {
     "linkedin": "https://www.linkedin.com/in/amaanizhar/",
