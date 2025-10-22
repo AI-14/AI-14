@@ -24,7 +24,7 @@
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB", "Pinecone"],
     "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain", "LangGraph", "FastMCP"],
-    "infra": ["MLflow", "Airflow", "Docker", "Kubernetes", "Terraform", "AWS"],
+    "infra": ["MLflow", "Prefect", "Docker", "Kubernetes", "Terraform", "AWS"],
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
   "open_to_discussions": [
