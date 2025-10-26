@@ -23,7 +23,7 @@
   "skills": {
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
     "databases": ["MySQL", "PostgreSQL", "MongoDB", "Qdrant"],
-    "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain/LangGraph", "Google-ADK", "FastMCP"],
+    "data_ai": ["NumPy", "Pandas", "PyTorch", "Scikit-Learn", "LangChain/LangGraph", "FastMCP"],
     "infra": ["MLflow", "Prefect", "Docker", "Kubernetes", "Terraform", "AWS"],
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
