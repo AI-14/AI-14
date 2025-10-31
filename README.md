@@ -18,6 +18,7 @@
     "Multimodal AI pipelines (vision + language + tabular)",
     "Enterprise RAG systems for knowledge retrieval",
     "Context engineering, fine-tuning, and reinforcement learning",
+    "Agentic recommendation systems",
     "LLMOps infrastructure and AI design patterns"
   ],
   "skills": {
