@@ -13,13 +13,12 @@
   "role": "LLM Research Scientist @ Gen Digital Inc.",
   "team": "MoneyLion",
   "focus": [
-    "Agentic AI systems (single/multi-agents) for real-time financial intelligence",
-    "LLM optimization for fintech-specific tasks",
-    "Multimodal AI pipelines (vision + language + tabular)",
-    "Enterprise RAG systems for knowledge retrieval",
-    "Context engineering, fine-tuning, and reinforcement learning",
+    "Agentic AI architectures (single/multi-agent systems)",
+    "LLM optimization: fine-tuning, RL, context engineering, self-evolution",
+    "Enterprise RAG systems and knowledge retrieval",
     "Agentic recommendation systems",
-    "LLMOps infrastructure and AI design patterns"
+    "Multimodal AI pipelines (vision, language, tabular data)",
+    "LLMOps infrastructure and deployment patterns"
   ],
   "skills": {
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
@@ -29,10 +28,10 @@
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
   "open_to_discussions": [
-    "Research-to-production challenges in LLMOps",
-    "Agentic AI system design patterns",
+   "Research-to-production challenges in LLMOps",
+    "Agentic AI system design and architecture patterns",
     "Self-evolving AI systems and autonomous improvement",
-    "Research collaborations and application of agentic AI in fintech and beyond"
+    "Research collaborations in fintech AI and beyond"
   ],
   "contact": {
     "linkedin": "https://www.linkedin.com/in/amaanizhar/",
