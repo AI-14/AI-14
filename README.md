@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Scaling Agentic AI Systems from Research to Production
+  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Researching, Building & Deploying Agentic AI Systems at Scale
 </p>
 
 ---
