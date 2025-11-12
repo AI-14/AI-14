@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Researching, Building & Deploying Agentic AI Systems at Scale
+  <strong>LLM Research Scientist @ Gen Digital Inc.</strong> | Building Scalable Agentic AI Systems | Fintech
 </p>
 
 ---
@@ -13,12 +13,12 @@
   "role": "LLM Research Scientist @ Gen Digital Inc.",
   "team": "MoneyLion",
   "focus": [
-    "Agentic AI architectures (single/multi-agent systems)",
-    "LLM optimization: fine-tuning, RL, context engineering, self-evolution",
-    "Enterprise RAG systems and knowledge retrieval",
-    "Agentic recommendation systems",
+    "Agentic AI architectures (single/multi-agent systems) for real-time financial intelligence",
+    "LLM optimization: context engineering, fine-tuning, reinforcement learning, self-evolution",
+    "Enterprise RAG systems and knowledge retrieval at scale",
+    "Agentic recommendation systems for personalized decision-making",
     "Multimodal AI pipelines (vision, language, tabular data)",
-    "LLMOps infrastructure and deployment patterns"
+    "LLMOps infrastructure and production deployment patterns"
   ],
   "skills": {
     "languages": ["Python", "Java", "TypeScript/JavaScript", "HTML/CSS", "Bash"],
@@ -28,9 +28,9 @@
     "other": ["Git", "GitHub Actions", "Kafka", "React", "FastAPI"]
   },
   "open_to_discussions": [
-   "Research-to-production challenges in LLMOps",
-    "Agentic AI system design and architecture patterns",
-    "Self-evolving AI systems and autonomous improvement",
+    "Research-to-production challenges in LLMOps",
+    "Agentic system design patterns",
+    "Self-evolving AI architectures",
     "Research collaborations in fintech AI and beyond"
   ],
   "contact": {
